@@ -12,7 +12,7 @@ const Contact = () => {
     const refForm = useRef()
 
     // Typing Game States
-    const [words] = useState(["react", "developer", "portfolio", "email", "contact", "code", "javascript", "web", "frontend"])
+    const [words] = useState(["react", "developer", "portfolio", "email", "contact", "code","CSS", "javascript", "web", "frontend", "software","engineering","innovation"," AI","ML",])
     const [currentWord, setCurrentWord] = useState("")
     const [inputValue, setInputValue] = useState("")
     const [score, setScore] = useState(0)
