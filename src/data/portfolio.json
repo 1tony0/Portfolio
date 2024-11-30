@@ -1,0 +1,35 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/brain.png", 
+            "title": "Brain Tumor Classification: AI-Powered Analysisr", 
+            "description": "Machine Learning, Data Processing, Python", 
+            "url": "https://github.com/1tony0/BrainTumorClassification_with_NeuralNetworks"
+        },
+        {
+            "cover": "/portfolio/bank.png", 
+            "title": "Bank Churn Prediction", 
+            "description": "Machine Learning, Python, Jupyter, Pandas", 
+            "url": "https://github.com/1tony0/Customer-Churn-Prediction-with-Machine-Learning"
+        },
+        {
+            "cover": "/portfolio/climate.png", 
+            "title": "Climate Change Report", 
+            "description": "C, GNU, C++, Real World Problem", 
+            "url": "https://github.com/1tony0/ClimateChangeProject"
+        },
+        {
+            "cover": "/portfolio/stock.png", 
+            "title": "Stock Predictor", 
+            "description": "Python, Pandas", 
+            "url": "https://github.com/1tony0/Stock-Predictor"
+        },
+        {
+            "cover": "/portfolio/bot.png", 
+            "title": "NEO's Chat Bot", 
+            "description": "AWS, Python, Web App", 
+            "url": "https://github.com/1tony0/NEOsChatBot"
+        }
+        
+    ]
+}

@@ -65,6 +65,8 @@ const About = () => {
             <Loader type='pacman' />
 
             </>
+
+            
             
             
             

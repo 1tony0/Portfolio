@@ -41,6 +41,8 @@ const Home = () => {
                 </h1>
                 <h2>AI Engineer / Full Stack Developer</h2>
                 <Link to="/contact" className="flat-button">CONTACT ME</Link>
+
+                <Link to="https://deft-baklava-6c9c1f.netlify.app/" className="flat-button">OLD WEBSITE</Link>
             </div>
             <Logo className="Home"/>
         </div>
