@@ -14,6 +14,16 @@ const Timeline = () => {
       expanded: false,
     },
     {
+      date: 'November 2024 - Present ',
+      title: 'Co-Founder/AI Engineer',
+      description: [
+        'Co-designed and developed Dawlad AI, an innovative platform leveraging machine learning to provide real-time financial insights and recommendations',
+        'Developed advanced speech AI models to enhance user interaction and accessibility on the Dawlad AI platform.',
+        'Optimized conversational AI workflows, improving the accuracy of speech-to-text and text-to-speech systems'
+      ],
+      expanded: false,
+    },
+    {
       date: 'October 2024 - Present ',
       title: 'TMU AI Founder & President',
       description: [
