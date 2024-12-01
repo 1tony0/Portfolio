@@ -2,7 +2,7 @@
     "portfolio": [
         {
             "cover": "/portfolio/brain.png", 
-            "title": "Brain Tumor Classification: AI-Powered Analysisr", 
+            "title": "Brain Tumor Classification", 
             "description": "Machine Learning, Data Processing, Python", 
             "url": "https://github.com/1tony0/BrainTumorClassification_with_NeuralNetworks"
         },
@@ -33,3 +33,4 @@
         
     ]
 }
+

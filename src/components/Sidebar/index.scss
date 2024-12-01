@@ -87,6 +87,21 @@
                 content: 'CONTACT';
             }
         }
+        a.about-link{
+            &:after{
+                content: 'ABOUT';
+            }
+        }
+        a.work-link{
+            &:after{
+                content: 'WORK';
+            }
+        }
+        a.portfolio-link{
+            &:after{
+                content: 'PROJECTS';
+            }
+        }
 
 
         a.active {
