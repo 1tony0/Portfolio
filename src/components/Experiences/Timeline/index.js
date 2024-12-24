@@ -48,6 +48,7 @@ const Timeline = () => {
       ],
       expanded: false,
     },
+    
   ]);
 
   const handleItemClick = (index) => {
